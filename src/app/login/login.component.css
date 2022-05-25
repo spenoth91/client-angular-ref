@@ -1,0 +1,29 @@
+.form-group label {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.lost-my-password {
+  font-size: 0.8rem;
+}
+
+.lost-my-password:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.form-control:focus {
+  border-color: #666666;
+  outline: 0;
+  box-shadow: none;
+}
+
+.btn-outline-dark:focus {
+  box-shadow: none;
+}
+
+.login-box {
+  border-radius: 5px;
+  border:1px solid #e6e6e6;
+  box-shadow: 0 0 2px rgba(0,0,0,0.25);
+}
